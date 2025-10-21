@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Desarrollador1 : Lourdes Guerrieri Viaña
 
 Este es el paso 11 
+=======
+Desarrollador1 == Lourdes Guerrieri Viaña
+>>>>>>> dev2
