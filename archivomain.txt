@@ -1,1 +1,1 @@
-Desarrollador1 = Lourdes Guerrieri Viaña
+Desarrollador1 == Lourdes Guerrieri Viaña
